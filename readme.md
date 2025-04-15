@@ -6,3 +6,5 @@ In your command prompt:
 1. pip install streamlit
 2. streamlit run app.py
 
+## Link
+https://findfriendsapp.streamlit.app/
