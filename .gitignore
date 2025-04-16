@@ -1,3 +1,2 @@
 .env
-29__find_friends__clustering.ipynb
-32__find_friends__human_friendly_cluster.ipynb
+*.ipynb
