@@ -31,7 +31,7 @@ with st.sidebar:
     age = st.selectbox('Przedział wiekowy', ['<18', '25-34', '45-54', '35-44', '18-24', '>=65', '55-64'], index=None)
     edu_level = st.selectbox('Wykształcenie', ['Podstawowe', 'Średnie', 'Wyższe'], index=None)
     fav_animals = st.selectbox('Ulubione zwierzę', ['Brak ulubionych', 'Psy', 'Koty', 'Inne', 'Koty i psy'], index=None)
-    fav_place = st.selectbox('Ulubione miejscw', ['Nad wodą', 'W lesie', 'W górach', 'Inne'], index=None)
+    fav_place = st.selectbox('Ulubione miejsce', ['Nad wodą', 'W lesie', 'W górach', 'Inne'], index=None)
     gender = st.radio('Płeć', ['Mężczyzna', 'Kobieta'], index=None)
         
     
